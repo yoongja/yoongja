@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning node.js <br>
 - 📫 How to reach me: rmatlr0112@khu.ac.kr <br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=radical)
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=radical)
 
 <!--
 **yoongja/yoongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
