@@ -1,7 +1,7 @@
 ### Hi I'm yoongja 👋
 
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="<yoongja>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<yoongja>&show_icons=true&locale=en&layout=compact" alt="<yoongja>" /></p>
 
 
 <!--
