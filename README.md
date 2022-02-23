@@ -6,6 +6,9 @@
 - 📫 How to reach me: rmatlr0112@khu.ac.kr <br>
 - <br>
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=radical)
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongja)
+
+
 
 <!--
 **yoongja/yoongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
