@@ -26,6 +26,7 @@
   <li>💛2022.03~07 CJ UNIT 대외활동</li>
   <li>🤍2022경희봄 프로그래밍대회 입상</li>
 </div>
+
 ***
 
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja)
