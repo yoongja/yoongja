@@ -7,8 +7,9 @@
   <li>✨I am interested in the web.</li>
   <br>
   <h3>My values🔥</h3>
-  >I believe in the possibilities.
-  I don't hesitate to learn new things.
+  🌹I believe in the possibilities.
+  <br>
+  🌹I don't hesitate to learn new things.
   
   <br>
   Activities
