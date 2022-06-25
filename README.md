@@ -1,13 +1,15 @@
-### Hi I'm yoongja 👋
+<center>### Hello there 👋 , this is yoongja 👋</center>
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=yoongja&fontSize=90)
 
 ***
-
-<ul style="list-style-type:disc;">
-  <li>✨I am interested in the web.</li>
-  <li>🌊I like to see and feel new things.</li>
-  <li>📸I like to take pictures.</li>
-  
+<center>
+  👩‍💻I'm a Computer Engineering student at KHU
+  <ul style="list-style-type:disc;">
+    <li>✨I am interested in the web.</li>
+    <li>🌊I like to see and feel new things.</li>
+    <li>📸I like to take pictures.</li>
+  </ul>
+</center>  
   <br>
   <h3>My values🔥</h3>
   🌹I believe in the possibilities.
