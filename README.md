@@ -6,6 +6,11 @@
 <ul style="list-style-type:disc;">
   <li>✨I am interested in the web.</li>
   <br>
+  <h3>My values🔥</h3>
+  >I believe in the possibilities.
+  I don't hesitate to learn new things.
+  
+  <br>
   Activities
   <br>
   <li>🖤2021.03 ~ ing 경희대 컴퓨터공학과 학생회 홍보부</li>
