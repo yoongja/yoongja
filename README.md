@@ -5,6 +5,9 @@
 
 <ul style="list-style-type:disc;">
   <li>✨I am interested in the web.</li>
+  <li>🌊I like to see and feel new things.</li>
+  <li>📸I like to take pictures.</li>
+  
   <br>
   <h3>My values🔥</h3>
   🌹I believe in the possibilities.
