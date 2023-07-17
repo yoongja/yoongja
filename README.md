@@ -29,7 +29,5 @@
   <li>🤍2022경희봄 프로그래밍대회 입상</li>
 </div>
 
-***
 
-![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongja)
 
