@@ -23,6 +23,13 @@
 🔬 I am passionate about exploring **Efficient LLMs** and **Hallucination Mitigation techniques in Vision-Language Models (VLMs)**.
 👾 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
+<!-- Research Interests Section -->
+### 🔬 Research Interests
+
+![LLMs](https://img.shields.io/badge/LLMs-%23FFB6C1.svg?style=for-the-badge&logo=openai&logoColor=black)
+![VLMs](https://img.shields.io/badge/VLMs-%238A2BE2.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hallucination Mitigation](https://img.shields.io/badge/Hallucination--Mitigation-%23FFA07A.svg?style=for-the-badge&logo=python&logoColor=white)
+![Efficient LLMs](https://img.shields.io/badge/Efficient%20LLMs-%236A5ACD.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <!-- Familiar With Section -->
 ### 🛠️ Familiar With
@@ -35,15 +42,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<!-- Research Interests Section -->
-### 🔬 Research Interests
-
-![LLMs](https://img.shields.io/badge/LLMs-%23FFB6C1.svg?style=for-the-badge&logo=openai&logoColor=black)
-![VLMs](https://img.shields.io/badge/VLMs-%238A2BE2.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Hallucination Mitigation](https://img.shields.io/badge/Hallucination--Mitigation-%23FFA07A.svg?style=for-the-badge&logo=python&logoColor=white)
-![Efficient LLMs](https://img.shields.io/badge/Efficient%20LLMs-%236A5ACD.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 
 <!-- GitHub Stats Section -->
 <!-- ##/# 📊 GitHub Stats -->
