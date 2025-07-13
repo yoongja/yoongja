@@ -3,7 +3,7 @@
 
 🧑‍🎓 MS in Computer Science @ Yonsei University  
 🎓 BS in Computer Engineering @ Kyung Hee University  
-🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs  
+<!-- 🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs -->
 <!-- 🌐 https://yoongja.github.io/ -->
 
 <!-- Activities Section -->
@@ -20,8 +20,8 @@
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
 
-🤖 I love exploring **LLMs and VLMs** research  
-🧡 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
+🔬 I love exploring **LLMs and VLMs** research  
+👾 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
 
 <!-- Familiar With Section -->
