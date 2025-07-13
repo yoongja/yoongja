@@ -4,7 +4,7 @@
 <div align="center">
   🧑‍🎓 MS in Computer Science @ Yonsei University<br>
   🎓 BS in Computer Engineering @ Kyung Hee University<br>
-  🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs
+  🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs<br>
   🌐 <a href="https://yoongja.github.io/">yoongja.github.io</a><br>
 </div>
 
