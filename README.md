@@ -13,11 +13,11 @@
 
 ### 💼 Activities
 - 🖤 Mar 2021 ~ Dec 2022: Student Council, Department of Computer Engineering, Kyung Hee University
-- 💛 Mar 2022 ~ Jul 2022: CJ UNIT Program Member
-- 🖤 Nov 2022 ~ Aug 2023: 42 Seoul Cadet
-- 💛 Dec 2022 ~ Feb 2023: Backend Engineer Intern at Startup
-- 🖤 Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member
 - 💛 Jan 2022 ~ Feb 2022: SJSU SVSTIP (Silicon Valley Software Training & Internship Program) Participant
+- 🖤 Mar 2022 ~ Jul 2022: CJ UNIT Program Member
+- 💛 Nov 2022 ~ Aug 2023: 42 Seoul Cadet
+- 🖤 Dec 2022 ~ Feb 2023: Backend Engineer Intern at Startup
+- 💛 Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member
 ---
 
 ### 🌱 A little more about me
