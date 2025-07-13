@@ -11,8 +11,6 @@
 
 📧 [yoonjikim@yonsei.ac.kr](mailto:yoonjikim@yonsei.ac.kr)
 
----
-
 <!-- Activities Section -->
 ### 💼 Activities
 
@@ -30,7 +28,6 @@
 🤖 I love exploring **LLMs, VLMs, and NLP** research  
 🧡 As an undergraduate, I especially enjoyed **server-side development**, particularly with **DBMS, MySQL, and Redis**  
 
----
 
 <!-- Familiar With Section -->
 ### 🛠️ Familiar With
@@ -53,7 +50,6 @@
 ![Hallucination Mitigation](https://img.shields.io/badge/Hallucination--Mitigation-%23FFA07A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Efficient LLMs](https://img.shields.io/badge/Efficient%20LLMs-%236A5ACD.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
----
 
 <!-- GitHub Stats Section -->
 <!-- ##/# 📊 GitHub Stats -->
