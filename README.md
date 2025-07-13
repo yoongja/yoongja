@@ -8,8 +8,6 @@
   🌐 <a href="https://yoongja.github.io/">yoongja.github.io</a><br>
 </div>
 
----
-
 <!-- Contact Section -->
 <h3 align="center">📫 Contact</h3>
 <div align="center">
@@ -29,7 +27,6 @@
   💛 Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member
 </div>
 
----
 
 <!-- About Me Section -->
 <h3 align="center">🌱 A Little More About Me</h3>
@@ -40,7 +37,6 @@
   🧘‍♀️ I practice yoga to keep my balance
 </div>
 
----
 
 <!-- Values Section -->
 <h3 align="center">💡 My Values</h3>
@@ -65,7 +61,6 @@
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
 
 <!-- Research Interests Section -->
 <h3 align="center">🔬 Research Interests</h3>
