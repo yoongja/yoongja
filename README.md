@@ -6,11 +6,6 @@
 🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs  
 <!-- 🌐 https://yoongja.github.io/ -->
 
-<!-- Contact Section -->
-### 📫 Contact
-
-📧 [yoonjikim@yonsei.ac.kr](mailto:yoonjikim@yonsei.ac.kr)
-
 <!-- Activities Section -->
 ### 💼 Activities
 
