@@ -19,12 +19,11 @@
 <!-- Activities Section -->
 <h3 align="center">💼 Activities</h3>
 <div align="center">
-  🖤 Mar 2021 ~ Dec 2022: Student Council, Department of Computer Engineering, Kyung Hee University<br>
-  💛 Jan 2022 ~ Feb 2022: SJSU SVSTIP (Silicon Valley Software Training & Internship Program) Participant<br>
-  🖤 Mar 2022 ~ Jul 2022: CJ UNIT Program Member<br>
-  💛 Nov 2022 ~ Aug 2023: 42 Seoul Cadet<br>
-  🖤 Dec 2022 ~ Feb 2023: Backend Engineer Intern at Startup<br>
-  💛 Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member
+  1️⃣ Jan 2022 ~ Feb 2022: SJSU SVSTIP (Silicon Valley Software Training & Internship Program) Participant<br>
+  2️⃣ Mar 2022 ~ Jul 2022: CJ UNIT Program Member<br>
+  3️⃣ Nov 2022 ~ Aug 2023: 42 Seoul Cadet<br>
+  4️⃣ Dec 2022 ~ Feb 2023: Backend Engineer Intern at Startup<br>
+  5️⃣ Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member
 </div>
 
 
