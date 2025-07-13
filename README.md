@@ -16,13 +16,13 @@
 <!-- Activities Section -->
 ### 💼 Activities
 
-1️⃣ July 2025 ~ ing. : **Open Source Contribution Academy** Member at Githru  
-2️⃣ Jan 2025 ~ ing. : **YAI** (Yonsei Artificial Intelligence) Member  
-3️⃣ Aug 2022 ~ Aug 2023: **UMC** (University MakeUs Challenge) Server Track Member  
-4️⃣ Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
-5️⃣ Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
-6️⃣ Mar 2022 ~ Jul 2022: **CJ UNIT** Program Member  
-7️⃣ Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant  
+- July 2025 ~ ing. : **Open Source Contribution Academy** Member at Githru  
+- Jan 2025 ~ ing. : **YAI** (Yonsei Artificial Intelligence) Member  
+- Aug 2022 ~ Aug 2023: **UMC** (University MakeUs Challenge) Server Track Member  
+- Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
+- Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
+- Mar 2022 ~ Jul 2022: **CJ UNIT** Program Member  
+- Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant  
 
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
