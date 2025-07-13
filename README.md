@@ -16,11 +16,11 @@
 <!-- Activities Section -->
 ### 💼 Activities
 
-1️⃣ Jan 2022 ~ Feb 2022: SJSU SVSTIP (Silicon Valley Software Training & Internship Program) Participant  
-2️⃣ Mar 2022 ~ Jul 2022: CJ UNIT Program Member  
-3️⃣ Nov 2022 ~ Aug 2023: 42 Seoul Cadet  
-4️⃣ Dec 2022 ~ Feb 2023: Backend Engineer Intern at Startup  
-5️⃣ Aug 2022 ~ Aug 2023: UMC (University MakeUs Challenge) Server Track Member  
+1️⃣ Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant  
+2️⃣ Mar 2022 ~ Jul 2022: **CJ UNIT** Program Member  
+3️⃣ Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
+4️⃣ Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
+5️⃣ Aug 2022 ~ Aug 2023: **UMC (University MakeUs Challenge)** Server Track Member  
 
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
