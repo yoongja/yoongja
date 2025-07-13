@@ -15,7 +15,7 @@
 - Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
 - Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
 - Mar 2022 ~ Jul 2022: **CJ UNIT** Program Member  
-- Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant  
+- Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant, hosted by San Jose State University
 
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
