@@ -20,7 +20,7 @@
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
 
-🔬 I love exploring **LLMs and VLMs** research  
+🔬 I am passionate about exploring **Efficient LLMs** and **Hallucination Mitigation techniques in Vision-Language Models (VLMs)**.
 👾 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
 
