@@ -20,8 +20,8 @@
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
 
-🤖 I love exploring **LLMs, VLMs, and NLP** research  
-🧡 As an undergraduate, I especially enjoyed **server-side development**, particularly with **DBMS, MySQL, and Redis**  
+🤖 I love exploring **LLMs and VLMs** research  
+🧡 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
 
 <!-- Familiar With Section -->
