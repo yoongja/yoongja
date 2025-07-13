@@ -27,14 +27,6 @@
 
 🤖 I love exploring **LLMs, VLMs, and NLP** research  
 🧡 As an undergraduate, I especially enjoyed **server-side development**, particularly with **DBMS, MySQL, and Redis**  
-🌊 I enjoy experiencing and sensing new things  
-🧘‍♀️ I practice yoga to keep my balance  
-
-<!-- Values Section -->
-### 💡 My Values
-
-🌹 I believe in the possibilities  
-🌹 I never hesitate to learn something new  
 
 ---
 
@@ -62,7 +54,7 @@
 ---
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+<!-- ##/# 📊 GitHub Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongja&layout=compact&theme=dracula&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=dracula&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongja&layout=compact&theme=dracula&hide_border=true) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=dracula&hide_border=true) -->
