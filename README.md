@@ -1,6 +1,4 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=yoongja&fontSize=90" alt="header banner"/>
-
 <h1 align="center">Hi there 👋, I'm Yoongja</h1>
 
 <div align="center">
@@ -10,6 +8,13 @@
 </div>
 
 ---
+
+<!-- Contact Section -->
+<h3 align="center">📫 Contact</h3>
+<div align="center">
+  🌐 <a href="https://yoongja.github.io/">https://yoongja.github.io/</a><br>
+  📧 <a href="mailto:yoonjikim@yonsei.ac.kr">yoonjikim@yonsei.ac.kr</a>
+</div>
 
 ### 💼 Activities
 - 🖤 Mar 2021 ~ Dec 2022: Student Council, Department of Computer Engineering, Kyung Hee University
@@ -54,6 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoongja&layout=compact&theme=dracula&hide_border=true" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
 </p>
-
-
-
