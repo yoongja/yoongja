@@ -31,15 +31,22 @@
 - 🌹 I never hesitate to learn something new
 
 ---
-
-### 🛠️ Familiar With
+### Familiar With
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### Research Interests
+![LLMs](https://img.shields.io/badge/LLMs-%23FFB6C1.svg?style=for-the-badge&logo=openai&logoColor=black)
+![VLMs](https://img.shields.io/badge/VLMs-%238A2BE2.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hallucination Mitigation](https://img.shields.io/badge/Hallucination--Mitigation-%23FFA07A.svg?style=for-the-badge&logo=python&logoColor=white)
+![Efficient LLMs](https://img.shields.io/badge/Efficient%20LLMs-%236A5ACD.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
