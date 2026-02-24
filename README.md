@@ -9,8 +9,8 @@
 <!-- Activities Section -->
 ### 💼 Activities
 
-- July 2025 ~ ing. : **Open Source Contribution Academy** Member at Githru  
-- Jan 2025 ~ ing. : **YAI** (Yonsei Artificial Intelligence) Member  
+- July 2025 ~ Nov 2025: **Open Source Contribution Academy** Member at Githru  
+- Jan 2025 ~ Dec 2025: **YAI** (Yonsei Artificial Intelligence) Member  
 - Aug 2022 ~ Aug 2023: **UMC** (University MakeUs Challenge) Server Track Member  
 - Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
 - Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
