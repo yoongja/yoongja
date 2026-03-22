@@ -3,24 +3,14 @@
 
 🧑‍🎓 MS in Computer Science @ Yonsei University  
 🎓 BS in Computer Engineering @ Kyung Hee University  
-<!-- 🔬 Research Interests: Efficient LLMs, Hallucination Mitigation in VLMs -->
+<!-- 🔬 Research Interests: Efficient Reasoning in LLMs, Hallucination Mitigation in VLMs -->
 <!-- 🌐 https://yoongja.github.io/ -->
 
-<!-- Activities Section -->
-### 💼 Activities
-
-- July 2025 ~ Nov 2025: **Open Source Contribution Academy** Member at Githru  
-- Jan 2025 ~ Dec 2025: **YAI** (Yonsei Artificial Intelligence) Member  
-- Aug 2022 ~ Aug 2023: **UMC** (University MakeUs Challenge) Server Track Member  
-- Dec 2022 ~ Feb 2023: **Backend Engineer Intern** at Startup  
-- Nov 2022 ~ Aug 2023: **42 Seoul** Cadet  
-- Mar 2022 ~ Jul 2022: **CJ UNIT** Program Member  
-- Jan 2022 ~ Feb 2022: **SJSU SVSTIP** (Silicon Valley Software Training & Internship Program) Participant, hosted by San Jose State University
 
 <!-- About Me Section -->
 ### 🌱 A Little More About Me
 
-🔬 I am passionate about exploring **Efficient LLMs** and **Hallucination Mitigation techniques in Vision-Language Models (VLMs)**.
+🔬 I am passionate about exploring **Efficient Reasoning in LLMs** and **Hallucination Mitigation techniques in Vision-Language Models (VLMs)**.
 👾 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
 <!-- Research Interests Section -->
