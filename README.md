@@ -4,7 +4,7 @@
 🧑‍🎓 MS in Computer Science @ Yonsei University  
 🎓 BS in Computer Engineering @ Kyung Hee University  
 <!-- 🔬 Research Interests: Efficient Reasoning in LLMs, Hallucination Mitigation in VLMs -->
-<!-- 🌐 https://yoongja.github.io/ -->
+🌐 https://yoongja.github.io/
 
 
 <!-- About Me Section -->
@@ -13,17 +13,10 @@
 🔬 I am passionate about exploring **Efficient Reasoning in LLMs** and **Hallucination Mitigation techniques in Vision-Language Models (VLMs)**.
 👾 As an undergraduate, I especially enjoyed **server-side development**, with a strong interest in working with **DBMS technologies such as MySQL, Redis, and MongoDB**.
 
-<!-- Research Interests Section -->
-### 🔬 Research Interests
-
-![LLMs](https://img.shields.io/badge/LLMs-%23FFB6C1.svg?style=for-the-badge&logo=openai&logoColor=black)
-![VLMs](https://img.shields.io/badge/VLMs-%238A2BE2.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Hallucination Mitigation](https://img.shields.io/badge/Hallucination--Mitigation-%23FFA07A.svg?style=for-the-badge&logo=python&logoColor=white)
-![Efficient LLMs](https://img.shields.io/badge/Efficient%20LLMs-%236A5ACD.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <!-- Familiar With Section -->
 ### 🛠️ Familiar With
-
+![LLMs](https://img.shields.io/badge/LLMs-%23FFB6C1.svg?style=for-the-badge&logo=openai&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
