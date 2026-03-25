@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <h1>Hi there 👋, I'm Yoongja</h1>
 
-🧑‍🎓 MS in Computer Science @ Yonsei University  
-🎓 BS in Computer Engineering @ Kyung Hee University  
+🧑‍🎓 MS in Computer Science and Engineering @ Yonsei University  
+🎓 BS in Computer Science and Engineering @ Kyung Hee University  
 <!-- 🔬 Research Interests: Efficient Reasoning in LLMs, Hallucination Mitigation in VLMs -->
 🌐 https://yoongja.github.io/
 
