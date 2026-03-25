@@ -4,7 +4,7 @@
 🧑‍🎓 MS in Computer Science and Engineering @ Yonsei University  
 🎓 BS in Computer Science and Engineering @ Kyung Hee University  
 <!-- 🔬 Research Interests: Efficient Reasoning in LLMs, Hallucination Mitigation in VLMs -->
-🌐 https://yoongja.github.io/
+🌐 Portfolio: https://yoongja.github.io/
 
 
 <!-- About Me Section -->
