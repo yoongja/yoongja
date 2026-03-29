@@ -32,4 +32,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongja&layout=compact&theme=dracula&hide_border=true) -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoongja&show_icons=true&theme=dracula&hide_border=true) -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoongja_ya)](https://solved.ac/yoongja_ya/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoongja_ya)](https://solved.ac/yoongja_ya/)/ -->
